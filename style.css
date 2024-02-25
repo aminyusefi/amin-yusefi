@@ -1,0 +1,22 @@
+body {
+    background-color: #c9d6ff,#e2e2e2;
+    color: #2d5575;
+    font-family: 'Single Day', cursive;
+}
+p {
+    color: #2d5575;
+}
+#text {
+    color: brown;
+    margin-top: 10px;
+    background-color: rgb(40, 228, 228);
+    border-radius: 10px;
+    width: 60px;
+}
+#math{
+    color: black;
+}
+h1 {
+    text-align: center;
+    color: rgb(211, 91, 11);
+}
