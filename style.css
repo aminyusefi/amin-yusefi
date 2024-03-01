@@ -1,1 +1,71 @@
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+    font-weight: 100px;
+}
 
+h2 {
+    margin-top: 10px;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.s {
+    color: black;
+}
+
+button {
+    width: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: rgba(0, 110, 255, 0.877);
+    border-radius: 30px;
+    height: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    border: none;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+.obi {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin-bottom: 7px;
+}
+
+.lok {
+    font-size: 17px;
+}
+
+.root {
+    color: green;
+    margin-top: 0px;
+}
+
+.you {
+    color: black;
+}
+
+.pori {
+    color: rgb(150, 15, 15);
+}
+
+button:active {
+    opacity: 0.5;
+}
