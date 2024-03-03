@@ -36,10 +36,12 @@ button {
     padding-right: 20px;
     color: white;
     border: none;
+    transition: 1s;
 }
 
 button:hover {
     opacity: 0.9;
+    box-shadow: #0059ff;
 }
 
 .obi {
