@@ -41,7 +41,7 @@ button {
 
 button:hover {
     opacity: 0.9;
-    box-shadow: #0059ff;
+    box-shadow: 10px 5px 10px #0059ff;
 }
 
 .obi {
